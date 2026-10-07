@@ -1,0 +1,10 @@
+# PyCharm settings
+.idea/
+
+# Dataset: download from Kaggle, never upload (too big)
+data/*.csv
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
